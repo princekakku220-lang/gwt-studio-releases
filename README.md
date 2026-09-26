@@ -5,7 +5,7 @@ The Premiere Pro panel by [Gaming With Talha](https://gamingwithtalha.com): one-
 **Download the latest version**
 
 - Windows: [GamingWithTalhaStudio-Setup-Windows.exe](https://github.com/princekakku220-lang/gwt-studio-releases/releases/latest/download/GamingWithTalhaStudio-Setup-Windows.exe)
-- macOS (Apple Silicon): [GamingWithTalhaStudio-macOS-AppleSilicon.pkg](https://github.com/princekakku220-lang/gwt-studio-releases/releases/latest/download/GamingWithTalhaStudio-macOS-AppleSilicon.pkg)
+- macOS (Apple Silicon): [GamingWithTalhaStudio-macOS-AppleSilicon.dmg](https://github.com/princekakku220-lang/gwt-studio-releases/releases/latest/download/GamingWithTalhaStudio-macOS-AppleSilicon.dmg)
 
 **Getting started**
 
