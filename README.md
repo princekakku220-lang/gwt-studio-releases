@@ -10,7 +10,7 @@ The Premiere Pro panel by [Gaming With Talha](https://gamingwithtalha.com): one-
 **Getting started**
 
 1. Install, then open Premiere Pro → Window → Extensions → Gaming With Talha Studio.
-2. Sign in at https://gamingwithtalha.com/account (Google or GitHub) to get your free 1-day trial key, paste it into the panel and press Activate — or paste the key from your purchase email.
+2. Sign in at https://gamingwithtalha.com/account (Google) to get your free 1-day trial key, paste it into the panel and press Activate — or paste the key from your purchase email.
 3. Buy or renew a monthly license at [gamingwithtalha.com/store/gwt-studio](https://gamingwithtalha.com/store/gwt-studio). Manage your key at [gamingwithtalha.com/license](https://gamingwithtalha.com/license).
 
 Requires Adobe Premiere Pro 2023 or newer on Windows 10/11 (64-bit) or macOS 13+ (Apple Silicon). One key works on one PC at a time.
